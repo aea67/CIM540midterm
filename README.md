@@ -1,21 +1,21 @@
 # CIM540midterm
 * midterm folder for cim540 containing project "Air Guitar"
 
-#Air Guitar
+# Air Guitar
 
-Is a digital game with an interface that looks like a guitar. It aims to imitate learning notes on a guitar by playing them in the sequence that the user must then follow to get it right.
+Is a game with an interface that looks like a guitar. It aims to imitate learning notes on a guitar by playing them in the sequence that the user must then follow to get it right.
 
-##Code Plan
+## Code Plan
 
-###Inputs
+### Inputs
 
 I will have a start button that the user must click on to start the game.
 
-###Outputs
+### Outputs
 
 Once the button is pressed, the output is the strings playing, which look like different line sections of the guitar lighting up
 
-###Pseudocode
+### Pseudocode
 
 Play button
 when tune1 = 1 and counter = 0, clicking PLAY starts game and counter++
