@@ -25,5 +25,5 @@ Lines start highlighting in sequence, and stop when finished.
 tune1 becomes false and counter = 0
 
 hitting play makes game play sequence again.
-
-### Interface[wires.html]
+[Game](http://agnesarchibong.com/hw/AirGuitar/)
+[Wireframes](https://aea67.github.io/wires.html)
