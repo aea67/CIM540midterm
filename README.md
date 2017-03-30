@@ -1,5 +1,7 @@
 # CIM540midterm
 * midterm folder for cim540 containing project "Air Guitar"
+* [Game](http://agnesarchibong.com/hw/AirGuitar/)
+* [Wireframes](https://aea67.github.io/wires.html)
 
 # Air Guitar
 
@@ -25,5 +27,3 @@ Lines start highlighting in sequence, and stop when finished.
 tune1 becomes false and counter = 0
 
 hitting play makes game play sequence again.
-
-[Game](http://agnesarchibong.com/hw/AirGuitar/)
