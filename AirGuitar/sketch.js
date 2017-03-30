@@ -19,10 +19,9 @@ function setup()
   play.position(331, 456);
   play.mousePressed(songPlay1);
 
-
   noStroke(); //cleans lines around guitar
        //R, G, B
-  fill(157, 134, 70);
+  fill(157, 134, 70); s
   //x coord, y coord, x width, y width
   rect(0, 152, 792, 255); //152+121.5 =547/2, 273.5
 

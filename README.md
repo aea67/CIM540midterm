@@ -18,9 +18,12 @@ Once the button is pressed, the output is the strings playing, which look like d
 ### Pseudocode
 
 Play button
-when tune1 = 1 and counter = 0, clicking PLAY starts game and counter++
+when tune1 = 1 and counter = 0, clicking PLAY:
+starts game and counter++
 
 Lines start highlighting in sequence, and stop when finished.
 tune1 becomes false and counter = 0
 
 hitting play makes game play sequence again.
+
+### Interface[wires.html]
