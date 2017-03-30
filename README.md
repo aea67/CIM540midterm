@@ -26,4 +26,4 @@ tune1 becomes false and counter = 0
 
 hitting play makes game play sequence again.
 
-### Interface[wires.html]
+[Game](http://agnesarchibong.com/hw/AirGuitar/)

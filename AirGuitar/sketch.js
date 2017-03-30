@@ -21,7 +21,7 @@ function setup()
 
   noStroke(); //cleans lines around guitar
        //R, G, B
-  fill(157, 134, 70); s
+  fill(157, 134, 70); 
   //x coord, y coord, x width, y width
   rect(0, 152, 792, 255); //152+121.5 =547/2, 273.5
 
