@@ -9,7 +9,7 @@ It will play the notes first, then asks the user to play the notes with the anim
 The checking to see if the user got it right function has not been built out yet.
 
 ### Step One: Interface
-I built on an interface from the wireframes I created in adobe. They were hard coded lines, rectangales and ellipses on certain coordinate points that make it look like a guitar. 
+I built on an interface from the wireframes I created in adobe Illustrator. They were hard coded lines, rectangles and ellipses on certain coordinate points that make it look like a guitar. 
  #### Inputs
 * "play mode header" = rect
 * "guitar frets" = stroke
@@ -32,4 +32,6 @@ Using the coordinate points, I used a switch statement to animate the strings be
 once play was pressed the counter would begin, starting the strings
 * counter++
 only the sound plays at first. hitting play again triggers the animation
-
+### Step Four: Guitar Sound
+After play is pressed, a sound file starts playing. 
+I recored myself playing guitar and then added it to an assets folder that the game links to. 
