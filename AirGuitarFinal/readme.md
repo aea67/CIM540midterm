@@ -14,13 +14,18 @@ I built on an interface from the wireframes I created in adobe. They were hard c
 * "play mode header" = rect
 * "guitar frets" = stroke
 * "guitar" = ellipse + rect
+* "PLAY" button = createbutton
+* tune1 = false
 
 ### Step Two: Hover Effect
 Using the coordinate points from the interface, I added a mouse over function so that when the mouse was over a certain section it would change color. 
 #### Inputs
-* if mouseX && mouseY (stroke(color change))
+* if (mouseX > x coord min && mouseX , x coord max && mouseY > ycoord min && mouseY < ycoord max){line stroke(color change) }
 
 ### Step Three: Strings Play
+When play is pressed, it calls a function that changes tune1 from false to true.
+When tune1 is true and the counter is less than or equal to 6, the strings play.
+* if (counter <= 6 && tune1 == tune1 == true) { drawSong(counter)}
 Using the coordinate points, I used a switch statement to animate the strings being played. 
 #### Inputs
 * switch(counter) 
@@ -28,15 +33,3 @@ once play was pressed the counter would begin, starting the strings
 * counter++
 only the sound plays at first. hitting play again triggers the animation
 
-
-Outputs
-
-Once the button is pressed, the output is the strings playing, which look like different line sections of the guitar lighting up
-
-Pseudocode
-
-Play button when tune1 = 1 and counter = 0, clicking PLAY: starts game and counter++
-
-Lines start highlighting in sequence, and stop when finished. tune1 becomes false and counter = 0
-
-hitting play makes game play sequence again.
