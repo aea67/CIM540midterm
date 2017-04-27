@@ -22,6 +22,7 @@ Using the coordinate points from the interface, I added a mouse over function so
 
 ### Step Three: Strings Play
 Using the coordinate points, I used a switch statement to animate the strings being played. 
+#### Inputs
 * switch(counter) 
 once play was pressed the counter would begin, starting the strings
 * counter++
