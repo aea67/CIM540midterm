@@ -1,5 +1,5 @@
 # Documentation for CIM540 Final
-[link](http://agnesarchibong.com/hw/AirGuitarFinal/)
+[Game Link](http://agnesarchibong.com/hw/AirGuitarFinal/)
 
 
 ## Air Guitar Code Plan
